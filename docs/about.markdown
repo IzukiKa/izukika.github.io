@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: print("About me")
+menu: main
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Izuki, an independant Python and Minecraft Datapack developer from the UK. I am also the lead developer of [Aurobia](https://github.com/aurobiadev) and most affiliated projects! I've enjoyed messing around with computers and the like for as long as I can remember! *What else do I write...*. Currently studying Maths, Physics and Computer Science for my A-Levels and really enjoying it!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The project I am currently most proud of is my datapack, [Voidborn](./datapacks/voidborn/overview.md)!
