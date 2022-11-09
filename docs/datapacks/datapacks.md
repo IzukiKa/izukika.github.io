@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Datapacks"
+title: Datapacks
+menu: main
 permalink: /datapacks/
 ---
 <hr />
